@@ -14,5 +14,5 @@ l'application propose 7 commandes permettant respectivement:
 
 Bien sûr, des erreurs sont à éviter; elles sont détaillées dans le cahier des charges fourni par l'enseignant référant de la SAE.
 
-# Attention
+# A l'attention de l'utilisateur
 Le cahier des charges ainsi que le rapport de la SAE sont à lire impérativement. 
